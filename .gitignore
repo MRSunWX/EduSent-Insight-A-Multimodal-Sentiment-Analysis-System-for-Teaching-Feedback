@@ -1,0 +1,27 @@
+.docx_work/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Python environments and caches
+backend/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Frontend dependencies and generated output
+frontend/node_modules/
+frontend/.next/
+frontend/.vinext/
+frontend/.wrangler/
+frontend/dist/
+frontend/coverage/
+
+# Local model data and editor/system files
+ollama_models/
+.DS_Store
+Thumbs.db
+*.log

@@ -2,6 +2,14 @@
 
 基于 AEF-R（Aspect-guided Evidence Fusion and Reasoning）证据融合推理框架的多模态课程反馈分析系统。
 
+## 演示视频
+
+点击下方封面观看完整演示（约 57 秒，包含文本、图片与图文融合分析）：
+
+[![教情智析系统演示](docs/demo-cover.jpg)](docs/demo.mp4)
+
+[▶ 打开或下载演示视频](docs/demo.mp4)
+
 ## 已实现
 
 - 文本情感分析、图片氛围分析、图文联合分析
